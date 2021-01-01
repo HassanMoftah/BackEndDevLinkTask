@@ -1,0 +1,31 @@
+C:\Users\j.elsayed\source\repos\dbsqlbase\dbsqlbase\obj\Debug\dbsqlbase.csprojAssemblyReference.cache
+C:\Users\j.elsayed\source\repos\dbsqlbase\dbsqlbase\bin\Debug\dbsqlbase.dll
+C:\Users\j.elsayed\source\repos\dbsqlbase\dbsqlbase\bin\Debug\dbsqlbase.pdb
+C:\Users\j.elsayed\source\repos\dbsqlbase\dbsqlbase\obj\Debug\dbsqlbase.dll
+C:\Users\j.elsayed\source\repos\dbsqlbase\dbsqlbase\obj\Debug\dbsqlbase.pdb
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\bin\Debug\dbsqlbase.dll
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\bin\Debug\dbsqlbase.pdb
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Debug\dbsqlbase.csproj.CoreCompileInputs.cache
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Debug\dbsqlbase.dll
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Debug\dbsqlbase.pdb
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\bin\Debug\Newtonsoft.Json.dll
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\bin\Debug\StreamJsonRpc.dll
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Debug\dbsqlbase.csproj.CopyComplete
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Debug\dbsqlbase.csprojAssemblyReference.cache
+C:\Users\Moftah\source\Workspace\planingsystem\04-dbSQLBase\dbsqlbase\dbsqlbase\bin\Debug\dbsqlbase.dll
+C:\Users\Moftah\source\Workspace\planingsystem\04-dbSQLBase\dbsqlbase\dbsqlbase\bin\Debug\dbsqlbase.pdb
+C:\Users\Moftah\source\Workspace\planingsystem\04-dbSQLBase\dbsqlbase\dbsqlbase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Moftah\source\Workspace\planingsystem\04-dbSQLBase\dbsqlbase\dbsqlbase\bin\Debug\StreamJsonRpc.dll
+C:\Users\Moftah\source\Workspace\planingsystem\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Debug\dbsqlbase.csproj.CoreCompileInputs.cache
+C:\Users\Moftah\source\Workspace\planingsystem\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Debug\dbsqlbase.csproj.CopyComplete
+C:\Users\Moftah\source\Workspace\planingsystem\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Debug\dbsqlbase.dll
+C:\Users\Moftah\source\Workspace\planingsystem\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Debug\dbsqlbase.pdb
+E:\New folder\LinkDevBackEndTask\dbsqlbase\bin\Debug\dbsqlbase.dll
+E:\New folder\LinkDevBackEndTask\dbsqlbase\bin\Debug\dbsqlbase.pdb
+E:\New folder\LinkDevBackEndTask\dbsqlbase\bin\Debug\Newtonsoft.Json.dll
+E:\New folder\LinkDevBackEndTask\dbsqlbase\bin\Debug\StreamJsonRpc.dll
+E:\New folder\LinkDevBackEndTask\dbsqlbase\obj\Debug\dbsqlbase.csprojAssemblyReference.cache
+E:\New folder\LinkDevBackEndTask\dbsqlbase\obj\Debug\dbsqlbase.csproj.CoreCompileInputs.cache
+E:\New folder\LinkDevBackEndTask\dbsqlbase\obj\Debug\dbsqlbase.csproj.CopyComplete
+E:\New folder\LinkDevBackEndTask\dbsqlbase\obj\Debug\dbsqlbase.dll
+E:\New folder\LinkDevBackEndTask\dbsqlbase\obj\Debug\dbsqlbase.pdb

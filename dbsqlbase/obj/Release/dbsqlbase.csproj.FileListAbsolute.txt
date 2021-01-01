@@ -1,0 +1,9 @@
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\bin\Release\dbsqlbase.dll
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\bin\Release\dbsqlbase.pdb
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\bin\Release\Newtonsoft.Json.dll
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\bin\Release\StreamJsonRpc.dll
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Release\dbsqlbase.csprojAssemblyReference.cache
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Release\dbsqlbase.csproj.CoreCompileInputs.cache
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Release\dbsqlbase.csproj.CopyComplete
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Release\dbsqlbase.dll
+E:\btl\PlaningSystem\Assets\04-dbSQLBase\dbsqlbase\dbsqlbase\obj\Release\dbsqlbase.pdb
